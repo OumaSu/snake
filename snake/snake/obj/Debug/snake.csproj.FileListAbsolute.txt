@@ -1,0 +1,6 @@
+C:\Users\007\Desktop\java_proc\snake\snake\snake\bin\Debug\snake.exe.config
+C:\Users\007\Desktop\java_proc\snake\snake\snake\bin\Debug\snake.exe
+C:\Users\007\Desktop\java_proc\snake\snake\snake\bin\Debug\snake.pdb
+C:\Users\007\Desktop\java_proc\snake\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\007\Desktop\java_proc\snake\snake\snake\obj\Debug\snake.exe
+C:\Users\007\Desktop\java_proc\snake\snake\snake\obj\Debug\snake.pdb
